@@ -6,6 +6,6 @@ In the project, real-time-chat, you can run:
 
 ### `npm start`
 
-- on Client, Open [http://localhost:3000] to view it in your browser.
+- Open [http://localhost:3000] to view it in your browser.
 
-*Check if the port 3000 is empty before open.
+\*Check if the port 3000 is empty before open.
