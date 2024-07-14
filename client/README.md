@@ -9,4 +9,5 @@ In the project, real-time-chat, you can run:
 
 - on Client, Open [http://localhost:3000] to view it in your browser.
 - on Server, Open [http://localhost:5000] to view it in your browser.
+
 *Check if the port 3000 or 5000 is empty before open.
