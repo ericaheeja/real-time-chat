@@ -3,7 +3,7 @@ In the project, real-time-chat, you can run:
 ### `npm install`
 
 - To run the local development, cd into the client folder and 'npm install'.
-- To run the local development, cd in to the server folder and 'npm install'.
+- To run the local development, cd into the server folder and 'npm install'.
 
 ### `npm start`
 
